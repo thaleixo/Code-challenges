@@ -30,7 +30,7 @@ public class Solution {
             Scanner scanner = new Scanner(System.in);
             
             for(int i = 1; scanner.hasNext();i++){
-                System.out.println(i + " " +scanner.nextLine());;
+                System.out.println(i + " " +scanner.nextLine());
             }
     }
 }
