@@ -1,4 +1,4 @@
-/*
+"""
 
 Task
 Given an integer, , perform the following conditional actions:
@@ -17,7 +17,7 @@ Output Format
 
 Print Weird if the number is weird. Otherwise, print Not Weird.
 
-*/
+"""
 
 #!/bin/python3
 
